@@ -15,7 +15,7 @@ https://www.kaggle.com/datasets/manishkc06/startup-success-prediction
 | `data/startup_data_original.csv` | Original file as downloaded (923 × 49). |
 | `data/startup_data_analytical.csv` | Final analytical dataset written by the notebook (922 × 46, with `split` column). |
 | `data/data_dictionary.md` | Meaning and use of every variable. |
-| `report/Analytical_Report.docx` (+ `.md`) | Analytical report, about 1,900 words. |
+| `report/Analytical_Report.docx` (+ `.md`) | Analytical report, about 2,000 words (Times New Roman 12, 1.5 spacing). |
 | `report/Completed_Working_Form.docx` | Student working form with every table filled. |
 | `figures/` | Figures saved by the notebook. |
 | `AI_use_statement.md` | Generative AI use statement. |
