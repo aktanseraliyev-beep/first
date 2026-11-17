@@ -21,7 +21,7 @@ https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset
 
 ## Software
 
-Python 3.13, pandas 3.0.5, numpy 2.5.3, scikit-learn 1.9.1, scipy 1.18.1, statsmodels 0.15.0, matplotlib 3.11.2, seaborn 0.13.2.
+Python 3.13, pandas 3.0.5, numpy 2.5.3, scikit-learn 1.9.1, scipy 1.18.1, matplotlib 3.11.2, seaborn 0.13.2.
 It also runs in Google Colab with its default versions.
 
 ## How to run
@@ -32,6 +32,6 @@ It also runs in Google Colab with its default versions.
 
 ## Reproducibility
 
-- Random seed: 42 (`RANDOM_STATE`), used for models, bootstrap, permutation importance and sampling.
+- Random seed: 42 (`RANDOM_STATE`), used for models, MLP, clustering and bootstrap.
 - Split by date: train 2011-01-01 to 2012-06-30, validation 2012-07-01 to 2012-09-30, test 2012-10-01 to 2012-12-31.
 - All preprocessing is fitted on training data only. The test quarter is used once.
