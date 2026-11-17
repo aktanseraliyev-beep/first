@@ -6,7 +6,7 @@ Aktan Seraliyev, 255522, DBAIT-2501
 
 | File | What it is |
 |---|---|
-| `final_exam_bike_sharing.ipynb` | Main notebook, all cells run, outputs visible |
+| `final_exam_bike_sharing.ipynb` | Main notebook (code only), all cells run, outputs visible |
 | `Final_Exam_AIBD_Aktan_Seraliyev.docx` | Completed examination sheet |
 | `data/hour.csv` | Original UCI file (17,379 rows) |
 | `data/Readme.txt` | Original UCI description |
@@ -27,7 +27,7 @@ It also runs in Google Colab with its default versions.
 ## How to run
 
 1. Keep `hour.csv` in a `data/` folder next to the notebook. In Colab, the loading cell asks you to upload it if the file is missing.
-2. Run all cells from top to bottom. On a normal laptop or in Colab this takes about 3 minutes.
+2. Run all cells from top to bottom. On a normal laptop or in Colab this takes about 1 minute.
 3. The notebook writes `data/hour_clean.csv` and the PNG files in `figures/`.
 
 ## Reproducibility
